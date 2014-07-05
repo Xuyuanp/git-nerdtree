@@ -49,6 +49,6 @@ Note
 It's **NOT** a plugin of NERDTree, but an enhance version.
 
 More Info
----------
+=======
 
 See details in https://github.com/scrooloose/nerdtree
